@@ -1,7 +1,7 @@
 import React from "react";
 
-const Layout = () => {
+const Feed = () => {
   return <div></div>;
 };
 
-export default Layout;
+export default Feed;

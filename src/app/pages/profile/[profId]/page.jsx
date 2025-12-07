@@ -1,7 +1,7 @@
 import React from "react";
 
-const Layout = () => {
+const Profile = () => {
   return <div></div>;
 };
 
-export default Layout;
+export default Profile;
